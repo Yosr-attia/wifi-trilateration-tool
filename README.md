@@ -1,7 +1,7 @@
 
 # WiFi Distance & Trilateration Tool
 
-This project contains three scripts developed for a practical session (Travaux Pratiques) focusing on Wi-Fi signal-based distance estimation and trilateration using Python.
+This project contains three scripts developed for a practical session focusing on Wi-Fi signal-based distance estimation and trilateration using Python.
 
 ## 🔧 Features
 
